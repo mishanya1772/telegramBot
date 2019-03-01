@@ -1,0 +1,31 @@
+{
+  "name": "test-revillweb",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/serhiisobur/test-bank.git"
+  },
+  "keywords": [
+    "telelgram"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/serhiisobur/test-bank#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
