@@ -1,3 +1,8 @@
-# test-bank
+# Telegram bot 
+## Bot name is SpringPoppyBot
+He can give such information as:
 
-Test project for automating simple banking application
+         • Currency
+         • Chuck Norris
+         • Weather in Izmail
+         • Weather in Kiev
